@@ -28,12 +28,12 @@ function Contact() {
 
     try {
       // const result = await axios.post(
-      //   "https://protfolio-backend-skxl.onrender.com/api/contact/contactController",
+      //   "http://localhost:5000/api/contact/contactController",
       //   formData,
       // );
 
       const result = await axios.post(
-  "https://protfolio-backend-skxl.onrender.com/api/contact",
+  "https://protfolio-backend-skxl.onrender.com/api/contact/contactController",
   formData
 );
 
