@@ -120,7 +120,7 @@ export const projects=[
       },
     ],
   icons: [FaReact,RiTailwindCssFill,FaNodeJs,SiMongodb],
-  demo: "https://linkdinproject-frontend.onrender.com",
+  demo: "https://linkdinproject-1.onrender.com",
   code: "https://github.com/milon1000000/LinkdinProject",
 }
 ]
